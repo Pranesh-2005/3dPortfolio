@@ -393,7 +393,7 @@ const projects: Project[] = [
           This is a powerful open-source tool designed to detect fake images, videos, and audios. 
           Utilizing state-of-the-art deep learning techniques like EfficientNetV2 and MTCNN, 
           It offers frame-by-frame video analysis, enabling high-accuracy deepfake detection. 
-          It's developed with a focus on ease of use, making it accessible for researchers, developers, and security analysts.
+          It&apos;s developed with a focus on ease of use, making it accessible for researchers, developers, and security analysts.
           Frontend is Deployed on Vercel and Backend on HuggingFace and Render.
           </TypographyP>
           <ProjectsLinks live={this.live} repo={this.github} />
@@ -436,7 +436,7 @@ const projects: Project[] = [
           </TypographyP>
           <TypographyP className="font-mono ">
           V0-like-website is a lightweight web application inspired by v0.dev, designed to demonstrate AI-driven website components using DeepSeek. 
-          The project utilizes Gradio for fast prototyping and ModelScope Studio's rich UI components, making it easy to expand and customize. 
+          The project utilizes Gradio for fast prototyping and ModelScope Studio&apos;s rich UI components, making it easy to expand and customize. 
           Ideal for developers and enthusiasts interested in modern AI-powered web experiences.
           </TypographyP>
           <ProjectsLinks live={this.live} repo={this.github} />
@@ -480,7 +480,7 @@ const projects: Project[] = [
           <p className="font-mono mb-2">
             My Portfolio is a beautiful developer portfolio template built with GatsbyJS and React. 
             Designed for developers who want to showcase their skills, projects, and achievements in a modern, professional, and customizable portfolio website.
-            Whether you're a software engineer, designer, or a tech enthusiast, this template provides a solid foundation for building a personal website that stands out in today's digital world.
+            Whether you&apos;re a software engineer, designer, or a tech enthusiast, this template provides a solid foundation for building a personal website that stands out in today&apos;s digital world.
           </p>
           <SlideShow
             images={[
